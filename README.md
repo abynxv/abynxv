@@ -1,3 +1,5 @@
+<img width="4298" height="1344" alt="IMG_6715 JPG" src="https://github.com/user-attachments/assets/e466f5b3-4e86-4603-a5ee-a482571b097a" />
+
 Backend Developer with 2+ years of experience building and maintaining production APIs and backend services using Python,
 Django, Django REST Framework, and FastAPI. Experienced in asynchronous processing, microservices, third-party API integrations,
 and Generative AI/LLM integration. Focused on building maintainable, production-grade systems and solving real-world
